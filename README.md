@@ -49,14 +49,6 @@ streamlit run app/app.py
 
 ---
 
-## 📎 GitHub Pages Example
-
-```text
-https://your-username.github.io/LegalSummarizerAI-Lite/summary.html
-```
-
----
-
 ## 🧠 Powered By
 
 - [OpenAI GPT-4.1](https://openai.com/)
