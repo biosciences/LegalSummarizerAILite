@@ -30,5 +30,5 @@ streamlit run app/app.py
 ## Features
 - Extracts key clauses from rental agreements
 - Outputs summaries to Word / PDF
-- Uses GPT-4o with structured prompts
+- Uses GPT-4.1 with structured prompts
 ```
