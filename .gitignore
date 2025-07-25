@@ -1,0 +1,15 @@
+# macOS system file
+.DS_Store
+
+# Python cache
+__pycache__/
+
+# Pytest cache
+.pytest_cache
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+

@@ -1,0 +1,6 @@
+- name: Break Fee Clause
+  pattern: "break fee.*5 weeks"
+  alert: "⚠️ NSW law limits break fees to 4 weeks max (Clause 51)."
+- name: Water Usage Charge
+  pattern: "water usage.*separately metered"
+  alert: "⚠️ Water charges only apply if premises are water-efficient (Clause 11-13)."
