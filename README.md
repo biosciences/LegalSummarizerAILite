@@ -2,6 +2,12 @@
 
 AI-powered assistant to summarise New South Wales (NSW) residential tenancy agreements into structured, legally relevant summaries.
 
+---
+
+## 📄 Project Links
+- 📂 [Source Code](https://github.com/biosciences/LegalSummarizerAILite): Explore the full repository
+- 🔗 [Live Report](https://biosciences.github.io/LegalSummarizerAILite/index.html): View the HTML output
+
 ## ✨ Features
 
 - 📤 Upload NSW tenancy PDF contracts
